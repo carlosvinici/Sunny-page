@@ -1,6 +1,5 @@
-# Sunny page
- Landing Page with HTML, CSS and JS
- Autor: Carlos Vinicius
+# Sunny Page with HTML, CSS and JS
+
 ![solution](./screenshot.jpg)
 
 
